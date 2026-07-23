@@ -1,4 +1,4 @@
-trojan://Es7z-YFUEcS8uE0o4Bp5YsDbEb3s_4gU@ws-test-4.hysteria.ltd:9443/?type=tcp&security=tls#0386%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20TROJAN%20%7C%20TG%3A%20%40YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#0353%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20SS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 trojan://CF68213490@harmless-lab.rooster465.autos:443/?type=tcp&security=tls#0020%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20TROJAN%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#0064%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20SS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#0396%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
