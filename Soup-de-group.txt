@@ -1,6 +1,6 @@
 trojan://d5bee0afdbc500b8cda02d80@nl2.pleiades.codes:2053/?type=tcp&security=tls&sni=nl2.pleiades.codes&alpn=h2%2Chttp%2F1.1&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D%20%282%29
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087/?type=ws&encryption=none&flow=&security=tls&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=qq#1575%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 vless://b2593749-691c-428c-9481-14979cba3446@kz3.zuoai.cf:443/?type=ws&encryption=none&flow=&security=tls&sni=xi.tbv.ccwu.cc&fp=chrome#0201%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20VLESS%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Oberengstringen%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hy2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?sni=hopp-swizland-new.mysynology.net#0194%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://f89c89df-905c-4df3-ab07-4f1a37a81005@status.fastline-labs.com:443/?sni=status.fastline-labs.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D%20%281%29
 hy2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060/?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Cyberjaya%20%7C%20%5BBL%5D
